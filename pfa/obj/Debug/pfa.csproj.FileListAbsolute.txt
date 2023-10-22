@@ -1,0 +1,14 @@
+C:\Users\neder\source\repos\pfa\pfa\bin\Debug\pfa.exe.config
+C:\Users\neder\source\repos\pfa\pfa\bin\Debug\pfa.exe
+C:\Users\neder\source\repos\pfa\pfa\bin\Debug\pfa.pdb
+C:\Users\neder\source\repos\pfa\pfa\bin\Debug\MySql.Data.dll
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.csproj.AssemblyReference.cache
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.csproj.SuggestedBindingRedirects.cache
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.page1.resources
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.Properties.Resources.resources
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.csproj.GenerateResource.cache
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.csproj.CoreCompileInputs.cache
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.csproj.CopyComplete
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.exe
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.pdb
+C:\Users\neder\source\repos\pfa\pfa\obj\Debug\pfa.adminpage.resources
